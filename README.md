@@ -1,13 +1,17 @@
 
 <!-- Titulo -->
-<h2>Bem vindo ao meu perfil! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h2>
+ ## Bem vindo ao meu perfil! 👋
 
-<!-- Primeiro CARD -->
-<div dir="auto"> 
-  <a href="https://https://github.com/almircs/html-css" rel="nofollow">
-  <img height="165em" src="https://camo.githubusercontent.com/0aa78870e9d4842bebd1d2809c9c80d81d39d57bf37624a09ef3a70d43195a6f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c6d697263732673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=leonardoalmir&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
-  <img height="135em" src="https://camo.githubusercontent.com/e7bbd8c14d63545425cec426c57dc4970823e63d1cb8c82fd4ffb8b52b8bf630/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c6d69726373266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalmir&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
-</a></div>
+<!-- Primeiro CARD GitHub Stats -->
+<div> 
+  <a href="https://https://github.com/leonardoalmir">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardoalmir&show_icons=true&theme=dark&&icon_color=2f80ed&title_color=2f80ed&bg_color=22272E&include_all_commits=true&count_private=true"/>
+   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalmir&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+</div>
+
+<!--  -->
+
+
 <h2 dir="auto"></h2>
   <div align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67"><img height="165em" src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" style="max-width: 100%;"></a>
