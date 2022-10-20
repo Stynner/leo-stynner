@@ -1,6 +1,6 @@
 
 <!-- Titulo -->
- ## Bem vindo ao meu perfil! teste 👋
+ ## Bem vindo ao meu perfil! 👋
 
 <!-- Primeiro CARD GitHub Stats -->
 <div> 
