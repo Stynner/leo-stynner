@@ -47,8 +47,7 @@
 <tr>
 <td>Framework</td>
 <td>
- <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-" data-canonical-src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
+ <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" data-canonical-src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;"></a>
@@ -74,8 +73,7 @@
 <tr>
 <td>OS</td>
 <td>
-<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/mac%20os-555555?style=for-the-badge&logo=apple&logoColor=white" data-canonical-src="https://img.shields.io/badge/mac%20os-555555?style=for-the-badge&logo=apple&logoColor=white" style="max-width: 100%;"></a>
 
@@ -110,8 +108,7 @@
 <!-- Snake Game -->
 
 <div dir="auto"> 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/almircs/almircs/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
-</div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/leonardoalmir/leonardoalmir/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/leonardoalmir/leonardoalmir/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p></div>
 
  <h2 align="center">Contact 🔑</h2>
 
