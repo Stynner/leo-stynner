@@ -5,12 +5,12 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=120&section=header"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Leonardo+Almir;mas+pode+me+chamar+de+Léo;Eu+moro+no+Brasil+-+MG;+Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <!-- Idiomas -->
 
  <table align="right">
- <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README.md"> :us: English</a></td></tr>
+ <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README.md"> :us: Inglês</a></td></tr>
  <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README-PT-BR.md"> :brazil: Português</a></td></tr>
 </table>
 
@@ -31,11 +31,11 @@
  <div dir="auto">
 <table border="2" align="">
 <tbody><tr>
-<th>CATEGORY</th>
-<th>TECHNOLOGIES THAT I'M DEEPENING</th>
+<th>CATEGORIA</th>
+<th>TECNOLOGIAS QUE ESTOU USANDO</th>
 </tr>
 <tr>
-<td>Language</td>
+<td>Linguagens</td>
 <td>
  <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -56,21 +56,21 @@
 </td>
 </tr>
 <tr>
-<td>Educational Background</td>
+<td>Formação acadêmica</td>
 <td>
-<span style="color:#eeeeee; background:#024e55; padding:6px;">Analysis and systems development | </span>
-<span style="color:#eeeeee; background:#35174c; padding:6px;">Software Engineering</span>
+<span style="color:#eeeeee; background:#024e55; padding:6px;">Analise e desenvolvimento de sistemas | </span>
+<span style="color:#eeeeee; background:#35174c; padding:6px;">Engenharia da Computação</span>
 </td>
 </tr>
 <tr>
-<td>Databases</td>
+<td>Banco de dados</td>
 <td>
 <a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>
 <!-- <a href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" style="max-width: 100%;"></a> -->
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td>OS</td>
+<td>SO</td>
 <td>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;"></a>
@@ -79,7 +79,7 @@
 </td>
 </tr>
 <tr>
-<td>Others</td>
+<td>Outros</td>
 <td><a href="https://github.com/leonardoalmir"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -95,14 +95,14 @@
 </tbody></table>
 </div>
 <!-- Curiosidades -->
- <h2 align="center">Curiosities ✨</h2>
+ <h2 align="center">Curiosidades ✨</h2>
 
-— I love developing code and seeing it working and organized.<br>
-— I'm a fan of The Mentalist and The Big Bang Theory.<br>
-— I like to watch movies and series, play games and watch football.<br>
-— I'm learning to play shuttlecock and guitar.<br>
-— Sometimes I make bad puns/jokes.<br>
-— I'm studying English to get my certification.<br>
+— Gosto muito de prograrmar e ver o código organizado e rodando redondo.<br>
+— Eu sou fázaum de The Mentalist e The Big Bang Theory.<br>
+— Eu curto assistir filmes e séries, jogar e assistir futebol.<br>
+— Eu estou aprendendo a tocar violão e a jogar peteca.<br>
+— Tem dia que estou inspirado e mando várias piadas e trocadilhos bem ruins.<br>
+— Estou estudando inglês para tirar minha certigicação.<br>
 
 <!-- Snake Game -->
 
@@ -110,7 +110,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/almircs/almircs/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 </div>
 
- <h2 align="center">Contact 🔑</h2>
+ <h2 align="center">Contato 🔑</h2>
 
 
 <!-- Contatos e Rede Social -->
@@ -122,15 +122,15 @@
 </div>
  <br>
 
-### <h2 align="center">About me ☕</h2>
+### <h2 align="center">Sobre mim ☕</h2>
 
-Passionate about my profession, I am always updating myself, in order to be on top of new solutions, methodologies and technologies, which will be crucial for evolution and quality in the delivery of results. Bearing in mind that interpersonal relationships are essential for a good relationship, professional and personal growth, I have been trying to learn a lot about inclusion, diversity and skills to manage a team and make it engaged, motivated and well-aligned.
+Apaixonado por minha profissão, sempre estou me atualizando, com o intuito de estar por dentro das novas soluções, metodologias e tecnologias, essas que serão cruciais para evolução e qualidade na entrega de resultados. Tendo em mente que a relação interpessoal é essencial para um bom convívio, crescimento profissional e pessoal, tenho buscado aprender muito sobre inclusão, diversidade e habilidades para gerir uma equipe e torná-la engajada, motivada e bem alinhada. 
 
-In this journey of 13 years of experience with IT, in the last 6 years I was able to acquire experience in team management, projects, development of web systems and IT infrastructure, with several projects, using Google Cloud and AWS.
+Nessa jornada de 13 anos de experiência com TI, nos últimos 6 anos pude adquirir experiência em gestão de equipes, projetos, desenvolvimento de sistemas web e infraestrutura de TI, com diversos projetos, utilizando Google Cloud e AWS. 
 
-I am developing team leadership skills, conflict resolution, techniques to develop resilience and recovery strategies in pressure situations.
+Estou desenvolvendo habilidades de liderança de equipe, resolução de conflitos, técnicas para desenvolver resiliência e estratégias de recomposição em situações de pressão. 
 
-With a dynamic, proactive, communicative and entrepreneurial profile, I have a methodology that integrates principles of quality, planning, control and monitoring, always looking for the best, with performance and quality.
+Com perfil dinâmico, proativo, comunicativo e empreendedor, possuo uma metodologia que integra princípios de qualidade, planejamento, controle e monitoramento, buscando sempre o melhor, com desempenho e qualidade.
 
 </article>
   </div>
