@@ -37,37 +37,62 @@
 <tr>
 <td>Language</td>
 <td>
- <a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>    
+ <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width: 100%;"></a>
+<!-- <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"></a> -->
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
+</td>
+</tr>
+<tr>
+<td>Framework</td>
+<td>
+ <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+" data-canonical-src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;"></a>
+
+
 </td>
 </tr>
 <tr>
 <td>Educational Background</td>
 <td>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/1bb4c396b492e951d82325fdc9fc9c503800ee71b9bb6117379a19f6a94a6976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d616368696e652532304c6561726e696e672d3031443237373f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Machine Learning Badge" style="max-width: 100%;"></a>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/92f6b93a905a07675c7d0f88f0eb44c1ec4d2ec644a4d165b759220ed3d33a72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6d7075746572253230536369656e63652d4641423034303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Computer Science Development Badge" style="max-width: 100%;"></a>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/5c050b43b7f1f051c6e185b5e71862fad2fc0f83778e6c59d32e486aabd5e5a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f667477617265253230446576656c6f706d656e742d4646363630303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Software Development Badge" style="max-width: 100%;"></a>
+<span style="color:#eeeeee; background:#024e55; padding:6px;">Analysis and systems development</span>
+<span style="color:#eeeeee; background:#35174c; padding:6px;">Software Engineering</span>
 </td>
 </tr>
 <tr>
 <td>Databases</td>
 <td>
-<a href="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" style="max-width: 100%;"></a></td>
+<a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>
+<!-- <a href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" style="max-width: 100%;"></a> -->
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td>OS</td>
 <td>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/mac%20os-555555?style=for-the-badge&logo=apple&logoColor=white" data-canonical-src="https://img.shields.io/badge/mac%20os-555555?style=for-the-badge&logo=apple&logoColor=white" style="max-width: 100%;"></a>
+
 </td>
 </tr>
 <tr>
-<td>CI/CD</td>
-<td><a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="/almircs/almircs/blob/main"><img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>  
+<td>Others</td>
+<td><a href="https://github.com/leonardoalmir"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" data-canonical-src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="max-width: 100%;"></a>
+<!-- <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://aleen42.github.io/badges/src/photoshop.svg" data-canonical-src="https://aleen42.github.io/badges/src/photoshop.svg" style="max-width: 100%;"></a> -->
 </td>
 </tr>
 </tbody></table>
@@ -85,7 +110,7 @@
 <!-- Snake Game -->
 
 <div dir="auto"> 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/almircs/almircs/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/leonardoalmir/leonardoalmir/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/leonardoalmir/leonardoalmir/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 </div>
 
  <h2 align="center">Contact 🔑</h2>
