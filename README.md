@@ -10,8 +10,8 @@
 <!-- Idiomas -->
 
  <table align="right">
- <tr><td><a href="https://github.com/isyuricunha/leonardoalmir/blob/main/readme.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/isyuricunha/leonardoalmir/blob/main/readme-pt-br.md">:Brasil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/readme-pt-br.md">:Brasil: Português</a></td></tr>
 </table>
 
 <!-- CARDS GitHub Stats -->
@@ -58,7 +58,7 @@
 <tr>
 <td>Educational Background</td>
 <td>
-<span style="color:#eeeeee; background:#024e55; padding:6px;">Analysis and systems development</span>
+<span style="color:#eeeeee; background:#024e55; padding:6px;">Analysis and systems development | </span>
 <span style="color:#eeeeee; background:#35174c; padding:6px;">Software Engineering</span>
 </td>
 </tr>
@@ -67,8 +67,7 @@
 <td>
 <a href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>
 <!-- <a href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" style="max-width: 100%;"></a> -->
-<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
-" style="max-width: 100%;"></a></td>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td>OS</td>
@@ -108,7 +107,8 @@
 <!-- Snake Game -->
 
 <div dir="auto"> 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/leonardoalmir/leonardoalmir/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/leonardoalmir/leonardoalmir/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/almircs/almircs/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+</div>
 
  <h2 align="center">Contact 🔑</h2>
 
