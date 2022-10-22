@@ -6,8 +6,6 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <!-- Idiomas -->
 
  <table align="right">
@@ -74,14 +72,14 @@
 </tbody></table>
 </div>
 <!-- Curiosidades -->
-### <h2 align="center">Curiosities ✨</h2>
+ <h2 align="center">Curiosities ✨</h2>
 
 — I love developing code and seeing it working and organized.<br>
 — I'm a fan of The Mentalist and The Big Bang Theory.<br>
 — I like to watch movies and series, play games and watch football.<br>
 — I'm learning to play shuttlecock and guitar.<br>
 — Sometimes I make bad puns/jokes.<br>
-— I'm studying English to get my certification.<br><br>
+— I'm studying English to get my certification.<br>
 
 <!-- Snake Game -->
 
