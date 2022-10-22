@@ -4,8 +4,9 @@
  <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=120&section=header"/>
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=575F5F&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Leonardo+Almir;I+am+from+Brasil-MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Idiomas -->
 
