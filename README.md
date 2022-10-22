@@ -16,12 +16,12 @@
 
 <!-- CARDS GitHub Stats -->
 <div>
-<!-- Primeiro CARD GitHub Stats -->
+ <!-- Primeiro CARD GitHub Stats -->
   <a href="https://https://github.com/leonardoalmir/meuphp-basico">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardoalmir&show_icons=true&theme=dark&&icon_color=2f80ed&title_color=2f80ed&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 
-  <!-- Segundo CARD GitHub Stats -->
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalmir&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&count_private=true"/>
+ <!-- Segundo CARD GitHub Stats -->
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor-Dev&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&count_private=true"/>
 </div>
 
 ### <h2 align="center">Skills 📋</h2>
