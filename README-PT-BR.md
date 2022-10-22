@@ -24,7 +24,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor-Dev&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&count_private=true"/>
 </div>
 
-### <h2 align="center">Skills 📋</h2>
+### <h2 align="center">Habilidades 📋</h2>
 
 <!-- Tabela de conhecimentos -->
 
@@ -48,7 +48,7 @@
 <td>Framework</td>
 <td>
  <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" data-canonical-src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
-<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
+<a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for  -the-badge&logo=laravel&logoColor=white" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
 <a href="/leonardoalmir/leonardoalmir/blob/main"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;"></a>
 
