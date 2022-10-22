@@ -10,7 +10,7 @@
 <!-- Idiomas -->
 
  <table align="right">
- <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/readme.md"> :us: English</a></td></tr>
+ <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README.md"> :us: English</a></td></tr>
  <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README-PT-BR.md"> :brazil: Português</a></td></tr>
 </table>
 
