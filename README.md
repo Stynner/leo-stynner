@@ -23,10 +23,10 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalmir&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
 
- ### <h2 align="center">Skills 📋</h2>
+### <h2 align="center">Skills 📋</h2>
 
 <!-- Tabela de conhecimentos -->
-<h2 dir="auto"></h2>
+
  <div dir="auto">
 <table border="2" align="">
 <tbody><tr>
@@ -79,11 +79,10 @@
 — I like to watch movies and series, play games and watch football.<br>
 — I'm learning to play shuttlecock and guitar.<br>
 — Sometimes I make bad puns/jokes.<br>
-— I'm studying English to get my certification.<br><br><br>
+— I'm studying English to get my certification.<br><br>
 
 <!-- Snake Game -->
 
-<h2 dir="auto"></h2>
 <div dir="auto"> 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/almircs/almircs/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 </div>
