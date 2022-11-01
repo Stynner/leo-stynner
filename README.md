@@ -14,10 +14,6 @@
  <tr><td><a href="https://github.com/leonardoalmir/leonardoalmir/blob/main/README-PT-BR.md"> :brazil: Portuguese</a></td></tr>
 </table>
 
-<!-- Skyline 3D -->
-<a href="https://skyline.github.com/leonardoalmir/2022" target="_blank" rel="noopener noreferrer"><img width="1225" alt="teste" src="https://user-images.githubusercontent.com/43795233/199134967-e856b9c4-bae6-494b-8ef2-ec3b3fad263e.png"></a>
-
-
 <!-- CARDS GitHub Stats -->
 <div>
  <!-- Primeiro CARD GitHub Stats -->
